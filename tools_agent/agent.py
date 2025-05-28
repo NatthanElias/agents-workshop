@@ -11,6 +11,7 @@ def get_current_time() -> dict:
     }
 
 root_agent = Agent(
+    #model=LiteLlm(model="groq/llama3-8b-8192"),
     model=LiteLlm(model="openai/gpt-4.1-nano"),
     name='tools_agent',
     description='Um assistente com poder de invocar tools',
