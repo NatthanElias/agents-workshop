@@ -1,0 +1,36 @@
+TechCorp - Nossa Empresa
+
+História:
+A TechCorp foi fundada em 2010 por Maria Silva e João Santos em São Paulo, Brasil.
+Começamos como uma pequena startup de desenvolvimento de software com apenas 5 funcionários.
+Hoje somos uma empresa de tecnologia com mais de 500 colaboradores em 3 países.
+
+Produtos:
+1. CloudManager Pro - Sistema de gerenciamento de nuvem empresarial
+   - Preço: R$ 299/mês
+   - Características: Dashboard intuitivo, monitoramento em tempo real, alertas automáticos
+
+2. DataSecure Plus - Solução de backup e segurança de dados
+   - Preço: R$ 199/mês
+   - Características: Criptografia de ponta, backup automático diário, recuperação rápida
+
+3. DevOps Suite - Conjunto de ferramentas para equipes de desenvolvimento
+   - Preço: R$ 499/mês
+   - Características: CI/CD integrado, gestão de containers, automação de deploys
+
+Serviços:
+- Consultoria em transformação digital
+- Treinamento em tecnologias cloud
+- Suporte técnico 24/7 para todos os produtos
+- Desenvolvimento de software customizado
+
+Valores da Empresa:
+- Inovação constante
+- Foco no cliente
+- Trabalho em equipe
+- Sustentabilidade e responsabilidade social
+
+Contato:
+Email: contato@techcorp.com.br
+Telefone: (11) 98765-4321
+Endereço: Av. Paulista, 1000 - São Paulo, SP
