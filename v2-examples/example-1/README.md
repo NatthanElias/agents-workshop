@@ -40,4 +40,4 @@ O agente sempre responderá com uma mensagem alegre de "Hello World!".
 
 - `gemini-2.0-flash-exp` (gratuito via Google AI Studio)
 
-Você pode trocar por outros modelos Gemini disponíveis: https://ai.google.dev/gemini-api/docs/models/gemini
+Outros modelos Gemini disponíveis: https://ai.google.dev/gemini-api/docs/models/gemini
