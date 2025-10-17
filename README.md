@@ -75,7 +75,7 @@ Este é um material educacional aberto. Sugestões e melhorias são bem-vindas!
 
 ## 📧 Contato
 
-[Nathan Elias - AI Engineer](https://www.linkedin.com/in/natthan-elias/)
+[Natthan Elias - AI Engineer](https://www.linkedin.com/in/natthan-elias/)
 
 ## 📚 Referências
 
