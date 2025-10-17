@@ -75,11 +75,7 @@ Este é um material educacional aberto. Sugestões e melhorias são bem-vindas!
 
 ## 📧 Contato
 
-Workshop desenvolvido por **Nathan Elias** para:
-- Universidade Atitus (5º semestre - Ciência da Computação)
-- IFSUL Passo Fundo (Oficina de IA)
-
-Passo Fundo, RS - Brasil
+[Nathan Elias - AI Engineer](https://www.linkedin.com/in/natthan-elias/)
 
 ## 📚 Referências
 
