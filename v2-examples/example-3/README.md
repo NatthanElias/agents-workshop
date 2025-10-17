@@ -10,6 +10,15 @@ python agent_data_scientist.py
 
 O agent iniciará em modo interativo no terminal.
 
+## 📊 Estrutura do CSV
+
+O arquivo `sales_data.csv` contém:
+- `data`: Data da venda
+- `regiao`: Região da venda (Norte, Sul, Leste, Oeste)
+- `produto`: Nome do produto (Laptop, Mouse, Teclado, Monitor)
+- `vendas`: Valor total da venda em R$
+- `quantidade`: Quantidade de itens vendidos
+
 ## 🧪 Testando
 
 Exemplos de perguntas para fazer ao agent:
@@ -62,12 +71,3 @@ Exemplos de perguntas para fazer ao agent:
 6. **Resposta final** é fornecida ao usuário
 
 O ciclo ReAct pode se repetir várias vezes até o agent ter informações suficientes para responder.
-
-## 📊 Estrutura do CSV
-
-O arquivo `sales_data.csv` contém:
-- `data`: Data da venda
-- `regiao`: Região da venda (Norte, Sul, Leste, Oeste)
-- `produto`: Nome do produto (Laptop, Mouse, Teclado, Monitor)
-- `vendas`: Valor total da venda em R$
-- `quantidade`: Quantidade de itens vendidos
