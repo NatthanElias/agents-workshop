@@ -52,6 +52,6 @@ O sistema executará **CSO e CMO em paralelo**, e depois o **CEO sintetizará** 
 
 ## 🔧 Modelo usado
 
-- `gemini-2.0-flash-exp` (gratuito via Google AI Studio)
+- `gemini-2.5-flash`
 
 Outros modelos Gemini disponíveis: https://ai.google.dev/gemini-api/docs/models/gemini
