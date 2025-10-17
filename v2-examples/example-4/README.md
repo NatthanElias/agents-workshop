@@ -41,6 +41,13 @@ O sistema executará **CSO e CMO em paralelo**, e depois o **CEO sintetizará** 
 - **google_search tool**: Ferramenta nativa do Google ADK para busca web
 - **Knowledge Base inline**: Documentos passados direto no prompt
 
+
+## 🔧 Modelo usado
+
+- `gemini-2.5-flash`
+
+Outros modelos Gemini disponíveis: https://ai.google.dev/gemini-api/docs/models/gemini
+
 ## 💡 Como funciona
 
 1. `root_agent` orquestra tudo sequencialmente
@@ -48,10 +55,3 @@ O sistema executará **CSO e CMO em paralelo**, e depois o **CEO sintetizará** 
    - **CSO**: Analisa impacto social usando Knowledge Base
    - **CMO**: Pesquisa mercado usando google_search
 3. `ceo_agent` lê resultados de CSO/CMO e sintetiza decisão final
-
-
-## 🔧 Modelo usado
-
-- `gemini-2.5-flash`
-
-Outros modelos Gemini disponíveis: https://ai.google.dev/gemini-api/docs/models/gemini
