@@ -16,7 +16,7 @@ Este workshop foi desenvolvido para aulas ministradas na **Universidade Atitus**
 
 ## 💻 Conteúdo Prático
 
-### [Example 1: Hello World Agent](./v2-examples/example-1/)
+### Example 1: Hello World Agent (./v2-examples/example-1/)
 Introdução ao Google ADK com um agent básico de saudação.
 
 **O que aprende:**
@@ -26,7 +26,7 @@ Introdução ao Google ADK com um agent básico de saudação.
 
 ---
 
-### [Example 2: Agent com RAG](./v2-examples/example-2/)
+### Example 2: Agent com RAG (./v2-examples/example-2/)
 Agent que usa RAG (Retrieval Augmented Generation) para buscar informações em documentos.
 
 **O que aprende:**
@@ -37,7 +37,7 @@ Agent que usa RAG (Retrieval Augmented Generation) para buscar informações em 
 
 ---
 
-### [Example 3: Agent ReAct Data Scientist](./v2-examples/example-3/)
+### Example 3: Agent ReAct Data Scientist (./v2-examples/example-3/)
 Agent que analisa dados usando o padrão ReAct (Reasoning + Acting).
 
 **O que aprende:**
@@ -48,7 +48,7 @@ Agent que analisa dados usando o padrão ReAct (Reasoning + Acting).
 
 ---
 
-### [Example 4: Multi-Agent System](./v2-examples/example-4/)
+### Example 4: Multi-Agent System (./v2-examples/example-4/)
 Sistema multi-agent com execução paralela e orquestração sequencial.
 
 **O que aprende:**
