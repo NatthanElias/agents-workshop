@@ -31,7 +31,7 @@ O agent decidirá automaticamente quando usar a ferramenta de busca e quando res
 
 ## 🔧 Componentes
 
-- **LLM**: `google/gemini-2.0-flash-exp:free` (gratuito no OpenRouter)
+- **LLM**: `gemini-2.0-flash-exp`  (gratuito via Google AI Studio)
 - **Embeddings**: `sentence-transformers/all-MiniLM-L6-v2` (modelo local, sem necessidade de API)
 - **Vector Store**: FAISS (local, sem necessidade de configuração adicional)
 - **Document Loader**: TextLoader para arquivos .txt
